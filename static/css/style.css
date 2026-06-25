@@ -1,0 +1,47 @@
+body{
+    background-color:#0d1117;
+    color:#ffffff;
+}
+
+.card{
+    background-color:#161b22;
+    border:1px solid #30363d;
+    margin-bottom:20px;
+}
+
+.card-header{
+    font-weight:bold;
+    color:white;
+}
+
+.card-body{
+    color:white;
+}
+
+ul{
+    color:white;
+}
+
+li{
+    color:white;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color:white;
+}
+
+table{
+    color:white !important;
+}
+
+td{
+    color:white !important;
+}
+
+th{
+    color:white !important;
+}
+
+.navbar{
+    margin-bottom:20px;
+}
